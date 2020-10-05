@@ -1,8 +1,8 @@
 {
-  "name": "dragdrop",
+  "name": "schedule",
   "version": "1.0.0",
-  "description": "Vue.js拖曳簡易示範",
-  "author": "Javert",
+  "description": "排班系統",
+  "author": "Tiffany",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
